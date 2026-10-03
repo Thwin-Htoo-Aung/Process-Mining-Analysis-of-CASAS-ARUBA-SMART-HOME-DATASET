@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Process Mining outputs
+*.png
+*.pdf
+*.dot
+process_tree_visualization/
+process_models/
+
+# Large dataset file
+aruba.csv
+
+# Environment variables (contains API keys)
+.env

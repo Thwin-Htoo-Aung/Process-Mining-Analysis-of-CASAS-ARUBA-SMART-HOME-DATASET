@@ -1,0 +1,4 @@
+Model,Fitness,Precision,Generalization,Simplicity
+Alpha Miner,0.125,0.2308,0.9718,1.0
+Inductive Miner,1.0,0.4432,0.7689,0.6187
+Heuristic Miner,0.9961,0.1946,0.8634,0.4394

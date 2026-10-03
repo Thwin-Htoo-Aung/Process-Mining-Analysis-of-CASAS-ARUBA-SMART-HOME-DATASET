@@ -1,0 +1,35 @@
+# Requirements for CASAS Aruba Process Mining Analysis
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Process Mining
+pm4py>=2.7.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+graphviz>=0.20.0
+plotly>=5.15.0
+
+# LLM Integration
+openai>=1.0.0
+
+# Dashboard (Streamlit)
+streamlit>=1.28.0
+
+# PDF Report Generation
+fpdf2>=2.7.0
+
+# Additional Dependencies (usually installed with pm4py)
+networkx>=3.0
+scipy>=1.10.0
+lxml>=4.9.0
+
+# Optional: For better performance
+numba>=0.57.0
+
+# Optional: For Jupyter notebook support (if needed)
+# jupyter>=1.0.0
+# notebook>=7.0.0
